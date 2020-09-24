@@ -6,3 +6,4 @@ List of useful scripts for a system administrator
 3. [ResetBrokenWindowsUpdate.ps1](https://github.com/akshinmustafayev/Useful-Scripts-for-a-SysAdmin/blob/master/Scripts/ResetBrokenWindowsUpdate.ps1) - Reset Broken Windows Update
 4. [OracleDataClientTnsNamesChange.ps1](https://github.com/akshinmustafayev/Useful-Scripts-for-a-SysAdmin/blob/master/Scripts/OracleDataClientTnsNamesChange.ps1) - Script to change Oracle Data Client tnsnames for users
 5. [ChangeAttributeForFilesFromHidden.bat](https://github.com/akshinmustafayev/Useful-Scripts-for-a-SysAdmin/blob/master/Scripts/ChangeAttributeForFilesFromHidden.bat) - Script to change file attributes from hidden to normal after virus on flash drive (must be executed from the root directory of flash drive).
+6. [SetExchangeUserProfileImage.ps1](https://github.com/akshinmustafayev/Useful-Scripts-for-a-SysAdmin/blob/master/Scripts/SetExchangeUserProfileImage.ps1) - Command to set Exchange mailbox profile image from file
