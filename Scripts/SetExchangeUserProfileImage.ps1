@@ -1,0 +1,1 @@
+Set-UserPhoto -Identity "user@domain.com" -PictureData ([System.IO.File]::ReadAllBytes("C:\image.jpg"))
